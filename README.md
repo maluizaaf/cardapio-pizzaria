@@ -89,11 +89,6 @@ A interface foi projetada com foco total na experiência mobile, garantindo:
 * Navegação deslizante rápida no polegar.
 * Adaptabilidade perfeita para telas pequenas (smartphones) até monitores ultrawide (4K).
 
----
-
-## 📄 Licença
-
-Este projeto está sob a licença [MIT](./LICENSE). Sinta-se à vontade para utilizar para estudo, portfólio ou adaptação comercial.
 
 ---
 
